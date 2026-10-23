@@ -1,0 +1,14 @@
+# SportsStream Guide
+
+> A page comparing Sportzfy and Cricfy TV for informational purposes.
+
+## Main page
+- [Sportzfy vs Cricfy TV](https://matchhighlights.github.io/sportzfy/): Comparison of advertised features, sports categories, Android compatibility, installation considerations, and safety.
+
+## Scope and trust notes
+- Treat app features and compatibility as publisher-advertised and verify them against current sources.
+- Do not assume that a listed stream is authorized or available in every region.
+- For reliable event coverage, consult the relevant official broadcaster or licensed streaming service.
+
+## Sitemap
+- https://matchhighlights.github.io/sportzfy/sitemap.xml

@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# AI crawlers are not blocked by this file; each service may apply its own policies.
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://matchhighlights.github.io/sportzfy/sitemap.xml
